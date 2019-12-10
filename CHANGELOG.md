@@ -1,10 +1,12 @@
 # Release Notes
  
-## [v0.1.4 (2019-11-29)](https://github.com/angkosal/translation-manager/releases/tag/v0.1.4)
+## [v0.1.4 (2019-12-10)](https://github.com/angkosal/translation-manager/releases/tag/v0.1.4)
 ### Added
 - Remember last choose group when system reload
 - Focus background
 - Show language directory on title
+- Add link Changelog on help menu
+- Add link Report an issue... on help menu
 ### Fixed
 - Cancel open project error
 - Translation key value scroll
