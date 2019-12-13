@@ -1,5 +1,22 @@
 # Release Notes
- 
+## [v0.2.0 (2019-12-13)](https://github.com/angkosal/translation-manager/releases/tag/v0.2.0)
+### Added
+- Dark theme support
+- Copy translation key in context menu
+- Add shortcut for open project with Ctrl+O
+
+### Fixed
+- Reloading app after choose project
+- Change key scroll icon show sometime
+- Multiple spaces showing only one space
+
+### Changes
+- Menubar
+- fix actions input
+- Disabled maximize setting window
+- Disabled minimize setting window
+
+
 ## [v0.1.4 (2019-12-10)](https://github.com/angkosal/translation-manager/releases/tag/v0.1.4)
 ### Added
 - Remember last choose group when system reload
