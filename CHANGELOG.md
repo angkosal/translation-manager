@@ -1,4 +1,10 @@
 # Release Notes
+## [v0.2.1 (2019-12-14)](https://github.com/angkosal/translation-manager/releases/tag/v0.2.1)
+### Fixed
+- Delete key in search still exist
+- Key input height not match with content on search
+- Selected color problem in dark mode
+
 ## [v0.2.0 (2019-12-13)](https://github.com/angkosal/translation-manager/releases/tag/v0.2.0)
 ### Added
 - Dark theme support
