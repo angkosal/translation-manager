@@ -1,5 +1,5 @@
 # Release Notes
-## [v0.2.1 (2019-12-13)](https://github.com/angkosal/translation-manager/releases/tag/v0.2.1)
+## [v0.2.2 (2019-12-17)](https://github.com/angkosal/translation-manager/releases/tag/v0.2.2)
 ### Fixed
 - Translation updated and delete translation key
 
