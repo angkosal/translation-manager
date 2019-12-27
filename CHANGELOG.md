@@ -1,4 +1,14 @@
 # Release Notes
+## [v0.2.3 (2019-12-27)](https://github.com/angkosal/translation-manager/releases/tag/v0.2.3)
+### Added
+- Added bottom bar
+    - Keys length
+    - Actions message
+- Added Open Recent to File menu
+
+### Fixed
+- Translation not set when changes difference translation keys faster then one second
+
 ## [v0.2.2 (2019-12-17)](https://github.com/angkosal/translation-manager/releases/tag/v0.2.2)
 ### Fixed
 - Translation updated and delete translation key
