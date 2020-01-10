@@ -2,9 +2,9 @@
 
 ## [v0.2.4 (2020-01-10)](https://github.com/angkosal/translation-manager/releases/tag/v0.2.4)
 ### Added
-- Added 'Show in Explorer' to View menu, it's showing you current project to your Window Explorer\s\s
+- Added 'Show in Explorer' to View menu, it's showing you current project to your Window Explorer\
 ![Show in Explorer](https://i.ibb.co/MDzpb90/add-show-in-explorer-to-view-menu.png)
-- Added contextmenu to Translation value\s\s
+- Added contextmenu to Translation value\
 ![Show in Explorer](https://i.ibb.co/NszPbTs/input-context-menu.png)
 
 ### Fixed
