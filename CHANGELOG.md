@@ -1,5 +1,20 @@
 # Release Notes
 
+## [0.3.0 (2020-01-10)](https://github.com/angkosal/translation-manager/releases/tag/v0.3.0)
+### Added
+- Group filter
+- Add sortable translation
+- Customize theme
+- Nestable translation on PHP/JSON
+- Add preview translation file
+
+### Changes
+- Changes input create (language|group|key) to file menu
+
+### Fixed
+- Fixed Assign to Variable on difference language (It will cache variable from existing file).
+- Change column (Key) to fixed position.
+
 ## [v0.2.4 (2020-01-10)](https://github.com/angkosal/translation-manager/releases/tag/v0.2.4)
 ### Added
 - Added 'Show in Explorer' to View menu, it's showing you current project to your Window Explorer\
