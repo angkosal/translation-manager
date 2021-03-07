@@ -1,6 +1,11 @@
 # Release Notes
 
-## [0.3.0 (2020-01-10)](https://github.com/angkosal/translation-manager/releases/tag/v0.3.0)
+## [0.3.1 (2021-03-07)](https://github.com/angkosal/translation-manager/releases/tag/v0.3.1)
+
+### Fixed
+- Fixed change new key problem
+
+## [0.3.0 (2021-03-07)](https://github.com/angkosal/translation-manager/releases/tag/v0.3.0)
 ### Added
 - Group filter
 - Add sortable translation
