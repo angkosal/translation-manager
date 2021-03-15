@@ -1,7 +1,16 @@
 # Release Notes
 
-## [0.3.1 (2021-03-07)](https://github.com/angkosal/translation-manager/releases/tag/v0.3.1)
+## [0.3.2 (2021-03-15)](https://github.com/angkosal/translation-manager/releases/tag/v0.3.2)
+### Added
+- <Tab> to focus next column
+- <Shift+Tab> to focus previous column
+- <Enter> to focus next row
+- <Shift+Enter> to focus previous row
+- <Ctrl+f> to to find translation
+- Added find to Edit menu
+- Added highlight duplicate key
 
+## [0.3.1 (2021-03-07)](https://github.com/angkosal/translation-manager/releases/tag/v0.3.1)
 ### Fixed
 - Fixed change new key problem
 
