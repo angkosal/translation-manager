@@ -1,5 +1,15 @@
 # Release Notes
 
+## [0.3.3 (2021-03-20)](https://github.com/angkosal/translation-manager/releases/tag/v0.3.3)
+### Added
+- Add recent open
+- Show path in title
+### Fixed
+- Footer message when file written
+- Footer bar invisible on resized
+### Removed
+- Removed "Toggle developer tools" and "Reload" from help menu.
+
 ## [0.3.2 (2021-03-15)](https://github.com/angkosal/translation-manager/releases/tag/v0.3.2)
 ### Added
 - <Tab> to focus next column
