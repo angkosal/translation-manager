@@ -1,5 +1,11 @@
 # Release Notes
 
+## [0.3.6 (2021-03-28)](https://github.com/angkosal/translation-manager/releases/tag/v0.3.6)
+### Added
+- Added reload to view menu
+### Fixed
+- Fixed single quate problem in php extension
+    
 ## [0.3.5 (2021-03-28)](https://github.com/angkosal/translation-manager/releases/tag/v0.3.5)
 ### Added
 - Add ability for user can ingore empty value
@@ -126,3 +132,4 @@
 ## [v0.1.1 (2019-10-25)](https://github.com/angkosal/translation-manager/releases/tag/v0.1.1)
 ### Changed
 - Hide Toggle Developer Tools from View menu
+    
