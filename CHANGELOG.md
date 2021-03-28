@@ -1,5 +1,12 @@
 # Release Notes
 
+## [0.3.5 (2021-03-28)](https://github.com/angkosal/translation-manager/releases/tag/v0.3.5)
+### Added
+- Add ability for user can ingore empty value
+### Fixed
+- Fixed highlight duplicated
+- Trim key before save
+    
 ## [0.3.4 (2021-03-22)](https://github.com/angkosal/translation-manager/releases/tag/v0.3.4)
 ### Fixed
 - Fixed wrong translation while user switch to useGroup off
