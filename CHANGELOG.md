@@ -1,6 +1,17 @@
 # Release Notes
 
-## [0.3.6 (2022-01-08)](https://github.com/angkosal/translation-manager/releases/tag/v0.3.7)
+## [0.3.8 (2022-01-15)](https://github.com/angkosal/translation-manager/releases/tag/v0.3.8)
+
+### Added
+
+- Add focus highlight row
+
+### Fixed
+
+- Fixed language creation error
+- Fixed reorder on change translation after sort ans searched
+
+## [0.3.7 (2022-01-08)](https://github.com/angkosal/translation-manager/releases/tag/v0.3.7)
 
 ### Fixed
 
