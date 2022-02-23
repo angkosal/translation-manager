@@ -1,5 +1,11 @@
 # Release Notes
 
+## [0.3.9 (2022-02-23)](https://github.com/angkosal/translation-manager/releases/tag/v0.3.9)
+
+### Fixed
+
+- Fixed search show all when translation empty 
+
 ## [0.3.8 (2022-01-15)](https://github.com/angkosal/translation-manager/releases/tag/v0.3.8)
 
 ### Added
