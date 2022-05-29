@@ -1,5 +1,11 @@
 # Release Notes
 
+## [0.3.11 (2022-05-29)](https://github.com/angkosal/translation-manager/releases/tag/v0.3.11)
+
+### Updated
+
+- Add assign to variable name in create group
+
 ## [0.3.10 (2022-04-08)](https://github.com/angkosal/translation-manager/releases/tag/v0.3.10)
 
 ### Updated
