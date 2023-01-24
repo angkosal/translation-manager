@@ -1,5 +1,24 @@
 # Release Notes
 
+## [0.3.13 (2023-01-24)](https://github.com/angkosal/translation-manager/releases/tag/v0.3.13)
+
+### Added
+
+- Allow delete multiple translation
+
+### Updated
+
+- Menu `New Language` to `New Language (Folder)`
+- Menu `New Group` to `New Group (File)`
+- Reload window on change project
+
+### Fixed
+
+- Not clear previous filtered on change project
+- Fixed after delete key, create new key problem on change
+- Fixed always scroll to bottom after create new key or language
+- Improving performance
+
 ## [0.3.11 (2022-05-29)](https://github.com/angkosal/translation-manager/releases/tag/v0.3.11)
 
 ### Updated
